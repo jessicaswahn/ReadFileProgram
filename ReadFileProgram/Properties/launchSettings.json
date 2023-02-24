@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ReadFileProgram": {
+      "commandName": "Project",
+      "commandLineArgs": "test.txt\r\ntest2.txt"
+    }
+  }
+}
