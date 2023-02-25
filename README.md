@@ -17,13 +17,12 @@ In the same folder you'll find file.txt, which is the file program will read fro
 
 run the program in cmd, by typing: ReadFileProgram.exe file.txt
 
-the program will show you how many 'file' exist in the file 
-
-
 Run it in the Ide software
 
 You can see that the main function is takes a string array as an argument
 So you have to open debug properties to add the arguments
 you can add as many arguments as you like
 
+
+The program will show you how many 'file' exist in the file 
 
