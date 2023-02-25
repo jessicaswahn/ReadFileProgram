@@ -1,9 +1,11 @@
 # ReadFileProgram
 
-The program is build on .Net Core
+_The program is build on .Net Core_
 
 This program is taking a path to a file as an argument  
 Reading the file and counting how many times its filename occurs in the file's contents  
+
+### Get started: 
 
 You can run your program from a command promp or from an ide software
 
