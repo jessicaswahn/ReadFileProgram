@@ -1,5 +1,7 @@
 # ReadFileProgram
 
+The program is build on .Net Core
+
 This program is taking a path to a file as an argument  
 Reading the file and counting how many times its filename occurs in the file's contents  
 
